@@ -1,16 +1,23 @@
 {
-  "name": "IkaBot",
+  "name": "ikabot",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Bot Discord",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.3.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkaBey/IkaBotDiscord.git"
+  },
+  "author": "IkaBey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IkaBey/IkaBotDiscord/issues"
+  },
+  "homepage": "https://github.com/IkaBey/IkaBotDiscord#readme"
 }
